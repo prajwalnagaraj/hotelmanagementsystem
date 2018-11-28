@@ -1386,3 +1386,55 @@
 2018-11-27-main-INFO -com.cg.hbms.presentation.AdminConsole:In View Room Details Case
 2018-11-27-main-INFO -com.cg.hbms.service.HotelServiceImpl:Inside roomValidation Method
 2018-11-27-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside addRoomDetails Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getRole Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getUserId Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:Inside Admin Console
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:Inside Hotel Management Menu
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:In Add Hotel Details Case
+2018-11-28-main-INFO -com.cg.hbms.service.HotelServiceImpl:Inside hotelValidation Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside addHotelDetails Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:In Room Management Menu
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getHotelDetails Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:In View Room Details Case
+2018-11-28-main-INFO -com.cg.hbms.service.HotelServiceImpl:Inside roomValidation Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside addRoomDetails Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getRole Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getUserId Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:Inside Admin Console
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:In Room Management Menu
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getHotelDetails Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:In View Room Details Case
+2018-11-28-main-INFO -com.cg.hbms.service.HotelServiceImpl:Inside roomValidation Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside addRoomDetails Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getRole Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getUserId Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:Inside Admin Console
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:In Room Management Menu
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getHotelDetails Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:In View Room Details Case
+2018-11-28-main-INFO -com.cg.hbms.service.HotelServiceImpl:Inside roomValidation Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside addRoomDetails Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getRole Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getUserId Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:Inside Admin Console
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:In Room Management Menu
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getHotelDetails Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:In View Room Details Case
+2018-11-28-main-INFO -com.cg.hbms.service.HotelServiceImpl:Inside roomValidation Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside addRoomDetails Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getRole Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getUserId Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.AdminConsole:Inside Admin Console
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getRole Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getUserId Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.CustomerConsole:In Room List 
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getHotelDetails Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getRoomDetails Method
+2018-11-28-main-INFO -com.cg.hbms.service.HotelServiceImpl:Inside validateBooking Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside addBookingDetails Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.CustomerConsole:View Status of Booking 
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getBookingStatus Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getRole Method
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getUserId Method
+2018-11-28-main-INFO -com.cg.hbms.presentation.CustomerConsole:View Status of Booking 
+2018-11-28-main-INFO -com.cg.hbms.dao.HotelDaoImpl:Inside getBookingStatus Method

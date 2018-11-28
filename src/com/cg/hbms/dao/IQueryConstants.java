@@ -9,7 +9,7 @@ public interface IQueryConstants {
 	String Query5 = "DELETE FROM hotel WHERE HOTEL_ID=?";
 	String Query6 = "UPDATE hotel SET DESCRIPTION=? WHERE HOTEL_ID=?";
 	String Query7 = "INSERT INTO room_table values(?,room_id.nextval,?,?,?,?)";
-	String Query8 = "SELECT ROOM_ID FROM room_table WHERE HOTEL_ID=?";
+	String Query8 = "SELECT ROOM_ID FROM room_table WHERE HOTEL_ID=? AND ROOM_NO=?	";
 	String Query9 = "SELECT * FROM room_table WHERE HOTEL_ID=? and ROOM_ID=?";
 	String Query10 = "DELETE FROM room_table WHERE ROOM_ID=?";
 	String Query11 = "SELECT * FROM hotel";

@@ -296,6 +296,7 @@ public class HotelDaoImpl implements IHotelDao {
 				PreparedStatement preparedStatement1 = connection
 						.prepareStatement(IQueryConstants.Query8);
 				preparedStatement1.setString(1, room.getHotelId());
+				preparedStatement1.setString(2, room.getRoomNumber());
 				ResultSet resultSet = preparedStatement1.executeQuery();
 				if (resultSet.next()) {
 					roomId = resultSet.getString(1);

@@ -124,6 +124,7 @@ public class CustomerConsole {
 				System.out.println("Enter booking Id to view Status: ");
 				String bookingId = scanner.next();
 				String status = service.getBookingStatus(bookingId);
+				System.out.println(status);
 				if (status.equalsIgnoreCase("PENDING")) {
 					System.out.println("Sorry your booking is still in Pending. Check after some time!!!");
 				} else if(status.equalsIgnoreCase("Approved")) {

@@ -180,8 +180,8 @@ public class AdminConsole {
 								System.out.println(room.toString());
 								if(roomFlag){
 									String id = service.addRoomDetails(room);
-									System.out.println("The Room with id: " + room.getRoomId() + " for Hotel with  Id: "
-											+ id + " added!!");
+									System.out.println("The Room with id: " + id + " for Hotel with  Id: "
+											+ hotelId + " added!!");
 								}else{
 									System.exit(0);
 								}
@@ -388,8 +388,7 @@ public class AdminConsole {
 		System.out.println("Enter Room Number");
 		String roomNumber = scanner.next();
 		System.out.println("Enter Room Type"); 
-		scanner.next();
-		String roomType = scanner.nextLine();
+		String roomType = scanner.next();
 		System.out.println("Enter Rate per Day");
 		double perNightRate = Double.parseDouble(scanner.next()) ;
 		System.out.println("Enter Availablity");
