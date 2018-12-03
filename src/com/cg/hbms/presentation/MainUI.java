@@ -29,8 +29,8 @@ public class MainUI {
 				System.out.println("[1]. Register" + "\n" + "[2]. Login" + "\n" + "[3]. Exit");
 
 				try {
-					choice = Integer.parseInt(scanner.nextLine());
-				} catch (InputMismatchException e) {
+					choice = scanner.nextInt();// Integer.parseInt(scanner.nextLine());
+				} catch (InputMismatchException  | NumberFormatException e ) {
 					System.err.println("Enter digits only(1-3)");
 					break;					
 				}
@@ -82,12 +82,11 @@ public class MainUI {
 					break;
 
 				case 2:
+					while (loginAttempts < 3){
 					System.out.print("UserName? ");
-					String userName = scanner.nextLine();
+					String userName = scanner.next();
 					System.out.print("Password? ");
 					String password = scanner.next();
-					System.out.println(userName);
-					System.out.println(password);
 					loginAttempts++;
 					try {
 						String role = service.getRole(userName, password);
@@ -107,6 +106,8 @@ public class MainUI {
 						}
 					} catch (HMSExceptions e) {
 						System.err.println(e.getMessage());
+					}
+					break;
 					}
 					break;
 				case 3:

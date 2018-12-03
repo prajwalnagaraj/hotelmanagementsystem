@@ -387,12 +387,12 @@ public class AdminConsole {
 		System.out.println("Enter the Room Details");
 		System.out.println("Enter Room Number");
 		String roomNumber = scanner.next();
-		System.out.println("Enter Room Type"); 
-		String roomType = scanner.next();
 		System.out.println("Enter Rate per Day");
-		double perNightRate = Double.parseDouble(scanner.next()) ;
+		double perNightRate = scanner.nextDouble() ;
 		System.out.println("Enter Availablity");
 		String availability = scanner.next();
+		System.out.println("Enter Room Type"); 
+		String roomType = scanner.next();
 		Room room = new Room(hotelId2, roomNumber, roomType, perNightRate, availability);
 		return room;
 	}
