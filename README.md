@@ -1,1 +1,1 @@
-# MiniProject Hotel Management System
+# MiniProject:  Hotel Management System
