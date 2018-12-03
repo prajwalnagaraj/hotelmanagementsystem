@@ -1,1 +1,1 @@
-# miniplp
+# MiniProject Hotel Management System
